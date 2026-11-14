@@ -1,0 +1,11 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+bin/
+obj/
+
+# Visual Studio / VS Code cache
+.vscode/
+.vs/
+*.user
+*.suo
